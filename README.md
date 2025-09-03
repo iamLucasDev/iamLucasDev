@@ -63,8 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -72,8 +72,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
