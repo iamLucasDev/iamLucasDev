@@ -1,10 +1,13 @@
 #👨‍💻 Lucas Rodrigues 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor de Software`**
+Olá! Sou Lucas, estudante de Engenharia de Software e atualmente atuo como estagiário na Cadmus.
 
-Olá! Me chamo Lucas e estou em transição de carreira para o desenvolvimento front-end. Tenho estudado com dedicação HTML, CSS e JavaScript, e já desenvolvi alguns projetos pessoais para treinar lógica, responsividade e boas práticas. Meu foco atual é fortalecer minhas habilidades com JavaScript moderno e iniciar com frameworks como React.
+Estou desenvolvendo minha experiência em engenharia de software, com foco atual em Java e backend, enquanto continuo explorando automação, RPA e inteligência artificial.
 
-Estou buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior para aplicar o que venho aprendendo, contribuir com projetos reais e continuar evoluindo na prática.
+Também possuo conhecimentos em desenvolvimento Front-end, incluindo HTML, CSS, JavaScript
+
+Atualmente estou aprofundando meus conhecimentos em Java, APIs, SQL e Spring Boot, buscando transformar meus estudos em projetos práticos.
 
   <p>
     <a href="https://github.com/iamLucasDev">
@@ -63,21 +66,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 
 <img 
     align="left" 
-    alt="React" 
-    title="React"
+    alt="Java" 
+    title="Java"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    />
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
 
 <br/>
 <br/>
