@@ -1,14 +1,14 @@
-#👨‍💻 Lucas Rodrigues 
+👨‍💻 Lucas Rodrigues
 
-**`Desenvolvedor de Software`**
-Olá! Sou Lucas, estudante de Engenharia de Software e atualmente atuo como estagiário na Cadmus.
+Desenvolvedor de Software | Estudante de Engenharia de Software
 
-Estou desenvolvendo minha experiência em engenharia de software, com foco atual em Java e backend, enquanto continuo explorando automação, RPA e inteligência artificial.
+Olá! Sou Lucas, estudante de Engenharia de Software e estagiário de tecnologia na Cadmus.
 
-Também possuo conhecimentos em desenvolvimento Front-end, incluindo HTML, CSS, JavaScript
+Atualmente, estou aprofundando meus conhecimentos em Java, desenvolvimento backend, APIs REST, SQL e Spring Boot, aplicando o que aprendo em projetos práticos.
 
-Atualmente estou aprofundando meus conhecimentos em Java, APIs, SQL e Spring Boot, buscando transformar meus estudos em projetos práticos.
+Também possuo conhecimentos em HTML, CSS e JavaScript, e tenho interesse em ampliar minha atuação em desenvolvimento de software, automação de processos (RPA) e inteligência artificial.
 
+Meu objetivo é evoluir continuamente como desenvolvedor, construindo soluções bem estruturadas e transformando conhecimento em prática.
   <p>
     <a href="https://github.com/iamLucasDev">
         <img 
